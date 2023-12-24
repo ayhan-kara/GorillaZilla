@@ -11,6 +11,9 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/_Core/Scenes/BuildingBlocksVersion.unity
     guid: 1dba27f01bb40054285a987306482ef2
+  - enabled: 0
+    path: Assets/_Core/Scenes/ControllerTest.unity
+    guid: a83195f49d8a144488779ba2dde1bfa8
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 104e7f0627bdd0c41a23704aca4267b3,
       type: 2}
