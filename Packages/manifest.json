@@ -2,6 +2,7 @@
   "dependencies": {
     "com.darktable.xrgizmos": "https://github.com/darktable/XRGizmos.git",
     "com.deltation.toon-shader": "https://github.com/Delt06/urp-toon-shader.git?path=Packages/com.deltation.toon-shader",
+    "com.meta.movement": "https://github.com/oculus-samples/Unity-Movement.git#v3.1.1",
     "com.meta.xr.sdk.all": "60.0.0",
     "com.meta.xr.sdk.voice.composer": "59.0.0",
     "com.unity.collab-proxy": "2.2.0",
